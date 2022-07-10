@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+
+header {
+    height: 100px;
+    border: 7px dashed red;
+    padding: 16px;
+    background-color: yellow;
+    background-image: url(https://www.bing.com/th?id=AMMS_f7282e8009084077958ce660eb8a346e&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&pid=16.1);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+    
+
+} 

@@ -1,0 +1,19 @@
+div {
+    color: blue;
+}
+
+h1 {
+    color: red;
+}
+ h2 {
+     color: #009900;
+ }
+ strong {
+     color: black;
+ }
+ h3 {
+    color: rgba(34, 12, 64, 0.6)
+ }
+ span {
+    color: hsl(45, 100%, 30%, 70%)
+ }
